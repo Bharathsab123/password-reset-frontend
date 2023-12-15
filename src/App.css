@@ -67,6 +67,7 @@ button:hover{
     background-color: rgb(65, 65, 152);
 }
 img{
+    padding-top:15px;
     width: 800px;
     height: 630px;
 }
