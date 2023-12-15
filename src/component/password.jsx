@@ -42,7 +42,7 @@ function Password(){
             else {
                 setloading("SUBMIT")
                 setenable(true)
-                setmessage("password is reset sucessfully")}
+                setmessage("password is reset sucessfully👍")}
         }
     
     
